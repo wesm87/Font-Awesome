@@ -48,9 +48,9 @@
     "node": ">=0.10.3"
   },
   "eyeglass": {
-    "sassDir": "scss",
-    "exports": "eyeglass-exports.js",
     "name": "font-awesome",
-    "needs": "^0.6.0"
+    "needs": "^1.1.2",
+    "sassDir": "scss/font-awesome.scss",
+    "exports": "eyeglass-exports.js"
   }
 }
