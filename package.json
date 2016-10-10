@@ -40,5 +40,11 @@
   },
   "engines" : {
     "node" : ">=0.10.3"
+  },
+  "eyeglass": {
+    "sassDir": "scss",
+    "exports": "eyeglass-exports.js",
+    "name": "font-awesome",
+    "needs": "^0.6.0"
   }
 }
